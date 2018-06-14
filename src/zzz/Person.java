@@ -29,6 +29,9 @@ public class Person {
 	public String toString() {
 		return "Person [name=" + name + ", age=" + age + "]";
 	}
+	public static void show(){
+		
+	}
 	
 
 }
